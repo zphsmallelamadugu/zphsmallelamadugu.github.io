@@ -122,7 +122,7 @@
 
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&family=Outfit:wght@300;400;500;600;700&display=swap" rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&family=Noto+Sans+Telugu:wght@400;500;600;700&family=Noto+Serif+Telugu:wght@400;500;600;700&family=Outfit:wght@300;400;500;600;700&display=swap" rel="stylesheet" />
 
   <script src="https://cdn.tailwindcss.com"></script>
   <script>
@@ -150,6 +150,26 @@
     .delay-500 { animation-delay: 0.5s; }
     .no-scrollbar::-webkit-scrollbar { display: none; }
     .no-scrollbar { -ms-overflow-style: none; scrollbar-width: none; }
+
+    /* Telugu typography — Cormorant Garamond/Outfit have no Telugu glyphs.
+       Switch to Noto Serif/Sans Telugu and loosen tight Latin line-heights
+       so stacked vowel signs (e.g. ై, ్, ౌ) don't collide with the line above. */
+    html[lang="te"] body { font-family: 'Noto Sans Telugu', 'Outfit', system-ui, sans-serif; }
+    html[lang="te"] .font-display { font-family: 'Noto Serif Telugu', 'Cormorant Garamond', serif; }
+    html[lang="te"] .font-mono-accent { font-family: 'Noto Sans Telugu', 'JetBrains Mono', monospace; letter-spacing: 0.06em; }
+
+    html[lang="te"] h1.font-display,
+    html[lang="te"] h2.font-display,
+    html[lang="te"] h3.font-display { line-height: 1.4; }
+    html[lang="te"] p.font-display { line-height: 1.5; }
+
+    html[lang="te"] .leading-\[1\.05\],
+    html[lang="te"] .leading-\[1\.1\],
+    html[lang="te"] .leading-tight { line-height: 1.4 !important; }
+    html[lang="te"] .leading-snug { line-height: 1.55 !important; }
+    html[lang="te"] .leading-relaxed { line-height: 1.9 !important; }
+    /* Numeric displays (e.g. 551) keep leading-none — guard with :not(:lang(te) text) */
+    html[lang="te"] h1.font-display { padding-bottom: 0.15em; }
   </style>
 </head>
 <body class="antialiased text-stone-900">
