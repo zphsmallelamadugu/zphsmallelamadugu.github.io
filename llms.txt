@@ -1,0 +1,45 @@
+# ZPHS Mallelamadugu
+
+> Zilla Parishad High School (ZPHS) Mallelamadugu is a government secondary school in Mallelamadugu Village, Aswapuram Mandal, Bhadradri Kothagudem District, Telangana, India. Established in 1995, it teaches Classes 6 to 10 with free tuition, textbooks, uniforms and a mid-day meal under the Government of Telangana.
+
+Key facts:
+- Type: Government Zilla Parishad High School (fully government-aided)
+- Location: Mallelamadugu Village, Aswapuram Mandal, Bhadradri Kothagudem District, Telangana, India
+- Established: 1995
+- Grades served: Classes 6, 7, 8, 9, 10
+- Headmaster: K. Gopi Varaprasad Rao
+- Phone (Headmaster, also WhatsApp): +91 92471 71248
+- Admission enquiries via WhatsApp: +91 98482 98256
+- School hours: Monday – Saturday, 9:00 AM – 4:30 PM (closed on government holidays)
+- Languages: English, Telugu
+- Website: https://zphsmallelamadugu.github.io/
+
+Recent achievements (2025-26):
+- 100% pass rate in the SSC (10th class) board exam
+- Mandal topper with 551 / 600 marks
+- 4 students scored above 500 / 600
+- 4 consecutive years of NMMS (National Means-cum-Merit) Scholarship qualifiers
+- Active participation in district-level academic, cultural and sports competitions
+
+Facilities (all free for enrolled students):
+- Computer lab
+- Science lab (physics, chemistry, biology)
+- Sports ground (kabaddi, kho-kho, cricket, athletics)
+- Government-provided textbooks and school uniforms
+- Mid-day meal scheme
+
+## Pages
+
+- [Home](https://zphsmallelamadugu.github.io/): Overview, hero stats, navigation to all sections
+- [About](https://zphsmallelamadugu.github.io/#about): School history, philosophy and a message from the Headmaster
+- [Achievements](https://zphsmallelamadugu.github.io/#achievements): Board results, scholarships and competition participation
+- [Facilities](https://zphsmallelamadugu.github.io/#facilities): Campus amenities and government-supported services
+- [Moments](https://zphsmallelamadugu.github.io/#moments): Photo gallery from school life
+- [Admissions](https://zphsmallelamadugu.github.io/#admissions): Open enrolment for Classes 6 to 10 with online enquiry form
+- [Contact](https://zphsmallelamadugu.github.io/#contact): Address, phone, school hours
+
+## Optional
+
+- [Full content](https://zphsmallelamadugu.github.io/llms-full.txt): Complete site text in Markdown for context-window-friendly ingestion
+- [Sitemap](https://zphsmallelamadugu.github.io/sitemap.xml)
+- [robots.txt](https://zphsmallelamadugu.github.io/robots.txt)

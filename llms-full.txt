@@ -1,0 +1,146 @@
+# ZPHS Mallelamadugu — Full Site Content
+
+> Zilla Parishad High School (ZPHS) Mallelamadugu is a government secondary school in Mallelamadugu Village, Aswapuram Mandal, Bhadradri Kothagudem District, Telangana, India. Established in 1995. Teaches Classes 6 to 10 free of cost under the Government of Telangana.
+
+Site URL: https://zphsmallelamadugu.github.io/
+
+---
+
+## Quick facts
+
+- **Full name:** Zilla Parishad High School, Mallelamadugu
+- **Common names:** ZPHS Mallelamadugu, ZPHS Mallemaadugu, Z.P.H.S. Mallelamadugu
+- **Type:** Government Zilla Parishad High School (fully government-aided, no tuition fees)
+- **Established:** 1995
+- **Grades:** Classes 6, 7, 8, 9, 10
+- **Medium of instruction:** English and Telugu
+- **Affiliation:** Telangana State Board (SSC, 10th standard)
+- **Operating authority:** Zilla Parishad, Bhadradri Kothagudem District, Government of Telangana
+- **Headmaster:** K. Gopi Varaprasad Rao
+- **Phone / WhatsApp (Headmaster):** +91 92471 71248
+- **Admission enquiry WhatsApp:** +91 98482 98256
+- **School hours:** Monday – Saturday, 9:00 AM – 4:30 PM (closed on government holidays)
+
+## Address
+
+Zilla Parishad High School, Mallelamadugu
+Mallelamadugu Village,
+Aswapuram Mandal,
+Bhadradri Kothagudem District,
+Telangana, India.
+
+---
+
+## Hero / Tagline
+
+A rural school *shaping futures* for three decades.
+
+ZPHS Mallelamadugu has served the children of our region since 1995 — with discipline, care and academic excellence. Admissions open for Classes 6 to 10.
+
+Headline stats:
+- **100%** pass percentage (2025-26)
+- **551** mandal topper marks
+- **04** students above 500
+- **30+** years of service
+
+---
+
+## About
+
+A government school that keeps *village dreams* alive.
+
+For more than thirty years, ZPHS Mallelamadugu has been the quiet backbone of education in our mandal. We teach classes 6 through 10 — preparing students from surrounding villages for board examinations, competitive scholarships and life beyond.
+
+Discipline, regular attendance and respect for elders are woven into daily school life. Children who pass through our corridors are known across the region for their composure and clarity of thought.
+
+We are a fully government-aided Zilla Parishad High School — which means every child studies without tuition fees, receives free textbooks and uniforms, and a warm mid-day meal each school day.
+
+### Message from the Headmaster
+
+> "We believe that every child from every village deserves the same chance to rise. Our results this year prove what commitment looks like."
+>
+> — **K. Gopi Varaprasad Rao**, Headmaster, ZPHS Mallelamadugu
+
+---
+
+## Achievements (2025-26)
+
+A year of *firsts* and records broken.
+
+- **100% Pass Rate (2025-26):** Every tenth class student cleared the board exam — a milestone reflecting the school's commitment to every learner.
+- **Mandal Topper (2025):** A ZPHS Mallelamadugu student secured 551 / 600 and stood first across the entire mandal in the 10th standard board examinations. Four students from the school crossed the 500-mark milestone this year.
+- **NMMS Scholarships (4 years running):** Students have consistently qualified for the National Means-cum-Merit Scholarship for the past four consecutive years.
+- **District Competitions (Ongoing):** Students actively represent Mallelamadugu at district-level academic, cultural and sports competitions.
+
+---
+
+## Facilities
+
+Everything a student needs, *all free*.
+
+The campus is modest but well-equipped. Government support combined with dedicated staff means every child gets the tools, meals and guidance required to thrive.
+
+1. **Computer Lab** — Dedicated digital learning lab equipping students with foundational computing skills.
+2. **Science Lab** — Hands-on experiments in physics, chemistry and biology for every secondary grade.
+3. **Sports Ground** — Open sports area supporting kabaddi, kho-kho, cricket and athletics.
+4. **Qualified Faculty** — Highly qualified teachers with deep commitment to student growth and discipline.
+5. **Free Textbooks & Uniforms** — Government-provided textbooks and school uniforms for every enrolled student.
+6. **Mid-Day Meal Scheme** — Nutritious mid-day meals served every school day, supporting learning and well-being.
+
+---
+
+## Admissions
+
+**Enroll your child in Classes 6 to 10.**
+
+Admissions for the upcoming academic year are currently open. Fill in the enquiry form on the website (sends a pre-filled WhatsApp message) or call the school to visit.
+
+- No admission fees — fully government-aided
+- Free textbooks, uniforms and mid-day meals
+- Seats open for Classes 6, 7, 8, 9 and 10
+- Priority for children from surrounding villages
+
+**Speak to the Headmaster:** K. Gopi Varaprasad Rao — +91 92471 71248
+**Online enquiry (WhatsApp):** +91 98482 98256
+
+### Admission enquiry form fields
+- Student's Name (required)
+- Parent / Guardian Name (required)
+- Class Applying For: Class 6 / Class 7 / Class 8 / Class 9 / Class 10 (required)
+- Phone Number (required)
+- Email (optional)
+- Message (optional)
+
+Submitting the form opens WhatsApp with the details pre-filled and sends them to +91 98482 98256.
+
+---
+
+## Contact
+
+**Visit, call, or drop by during school hours.**
+
+The school gates are always open to families of the community. Whether you want to enroll your child, support the school, or simply learn more — the staff are happy to host you.
+
+- **Phone / WhatsApp:** K. Gopi Varaprasad Rao (Headmaster) — +91 92471 71248
+- **Address:** Zilla Parishad High School, Mallelamadugu Village, Aswapuram Mandal, Bhadradri Kothagudem District, Telangana, India.
+- **School Hours:** Monday – Saturday, 9:00 AM – 4:30 PM. Closed on government holidays.
+
+---
+
+## Identity
+
+- Operates under: Government of Telangana — Zilla Parishad
+- District: Bhadradri Kothagudem
+- Mandal: Aswapuram
+- Village: Mallelamadugu
+- Logo / emblem on the website: Emblem of Telangana
+
+## Site map
+
+- `/` — Home (single-page) with sections About, Achievements, Facilities, Moments, Admissions, Contact
+- `/sitemap.xml` — XML sitemap
+- `/robots.txt` — Crawler permissions (search engines + LLM bots all allowed)
+- `/llms.txt` — LLM-friendly summary
+- `/llms-full.txt` — This file
+- `/images/` — Site imagery
+- `/moments/` — Gallery photos
