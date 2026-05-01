@@ -563,17 +563,17 @@
         status.className = 'text-sm rounded-md p-3 bg-red-50 text-red-700 border border-red-200';
         return;
       }
-      const subject = encodeURIComponent('Admission Enquiry — ' + data.get('student-name'));
-      const body = encodeURIComponent(
-        "Student's Name: " + data.get('student-name') + "\n" +
-        "Parent / Guardian: " + data.get('parent-name') + "\n" +
-        "Class Applying For: " + data.get('class-applying') + "\n" +
-        "Phone: " + data.get('phone') + "\n" +
-        "Email: " + (data.get('email') || '—') + "\n\n" +
-        "Message:\n" + (data.get('message') || '—')
-      );
-      window.location.href = 'mailto:zphsmallelamadugu@gmail.com?subject=' + subject + '&body=' + body;
-      status.textContent = 'Thank you — your email client should now open to send the enquiry. You can also call +91 92471 71248.';
+      const text =
+        "*Admission Enquiry — ZPHS Mallelamadugu*\n\n" +
+        "*Student's Name:* " + data.get('student-name') + "\n" +
+        "*Parent / Guardian:* " + data.get('parent-name') + "\n" +
+        "*Class Applying For:* " + data.get('class-applying') + "\n" +
+        "*Phone:* " + data.get('phone') + "\n" +
+        "*Email:* " + (data.get('email') || '—') + "\n\n" +
+        "*Message:*\n" + (data.get('message') || '—');
+      const url = 'https://wa.me/919247171248?text=' + encodeURIComponent(text);
+      window.open(url, '_blank', 'noopener');
+      status.textContent = 'Opening WhatsApp to send your enquiry to the Headmaster. If it does not open, please call +91 92471 71248.';
       status.className = 'text-sm rounded-md p-3 bg-green-50 text-green-800 border border-green-200';
       form.reset();
     });
