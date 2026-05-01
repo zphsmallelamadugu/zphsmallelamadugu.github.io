@@ -157,6 +157,10 @@
     html[lang="te"] body { font-family: 'Noto Sans Telugu', 'Outfit', system-ui, sans-serif; }
     html[lang="te"] .font-display { font-family: 'Noto Serif Telugu', 'Cormorant Garamond', serif; }
     html[lang="te"] .font-mono-accent { font-family: 'Noto Sans Telugu', 'JetBrains Mono', monospace; letter-spacing: 0.06em; }
+    /* English-pinned text (e.g. brand wordmark) keeps Latin metrics even when document is Telugu */
+    html[lang="te"] [lang="en"].font-display,
+    html[lang="te"] [lang="en"] .font-display { font-family: 'Cormorant Garamond', serif; }
+    html[lang="te"] [lang="en"] { font-family: 'Outfit', system-ui, sans-serif; }
 
     html[lang="te"] h1.font-display,
     html[lang="te"] h2.font-display,
@@ -183,7 +187,7 @@
             <img src="images/emblem-of-telangana.svg" alt="Emblem of Telangana" class="w-14 h-14 md:w-16 md:h-16 object-contain" />
 
             <div class="leading-tight">
-              <div class="font-display text-lg font-semibold text-stone-900">ZPHS Mallelamadugu</div>
+              <div lang="en" class="font-display text-lg font-semibold text-stone-900">ZPHS Mallelamadugu</div>
               <div class="text-[10px] font-mono-accent text-stone-500" data-i18n="brand.tagline">Est. 1995 · Telangana</div>
             </div>
           </a>
